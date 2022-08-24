@@ -1,1 +1,0 @@
-# stydy_kotlin
