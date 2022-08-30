@@ -1,4 +1,4 @@
-package com.example.myapplication.presentation.example1
+package com.example.stydy_kotlin.presentation.example1
 
 import android.util.Log
 

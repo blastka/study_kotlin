@@ -1,4 +1,4 @@
-package com.example.myapplication.chatBot
+package com.example.stydy_kotlin.chatBot
 
 fun main(){
     val botName = "Anya"

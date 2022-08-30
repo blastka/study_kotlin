@@ -1,4 +1,4 @@
-package com.example.myapplication
+package com.example.stydy_kotlin
 
 import org.junit.Test
 

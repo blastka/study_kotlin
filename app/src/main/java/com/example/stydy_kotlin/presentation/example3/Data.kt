@@ -1,7 +1,6 @@
-package com.example.myapplication.presentation.example3
+package com.example.stydy_kotlin.presentation.example3
 
-import com.example.myapplication.presentation.example3.Data.Companion.FORMAT_DATE_TIME
-import java.lang.Math.abs
+import com.example.stydy_kotlin.presentation.example3.Data.Companion.FORMAT_DATE_TIME
 import java.text.SimpleDateFormat
 import java.time.Period
 import java.util.*

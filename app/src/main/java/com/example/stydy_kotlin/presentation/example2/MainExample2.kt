@@ -1,7 +1,5 @@
-package com.example.myapplication.presentation.example2
+package com.example.stydy_kotlin.presentation.example2
 
-import java.util.*
-import kotlin.collections.ArrayList
 import kotlin.coroutines.resume
 import kotlin.coroutines.resumeWithException
 import kotlin.coroutines.suspendCoroutine

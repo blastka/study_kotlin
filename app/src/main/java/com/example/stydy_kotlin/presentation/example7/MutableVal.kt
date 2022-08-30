@@ -1,4 +1,4 @@
-package com.example.myapplication.MutableVal
+package com.example.stydy_kotlin.MutableVal
 
 fun main(){
     val myMutableList = mutableListOf(1, 2, 3, 4, 5)

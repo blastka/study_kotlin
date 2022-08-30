@@ -1,4 +1,4 @@
-package com.example.myapplication.presentation.example2
+package com.example.stydy_kotlin.presentation.example2
 import androidx.lifecycle.MutableLiveData
 
 fun main(){

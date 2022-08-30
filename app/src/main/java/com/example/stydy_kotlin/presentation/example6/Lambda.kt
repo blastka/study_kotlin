@@ -1,4 +1,4 @@
-package com.example.myapplication
+package com.example.stydy_kotlin
 
 fun main(){
     var lambda = {param: Int -> param * 5}
