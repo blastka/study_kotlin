@@ -3,7 +3,7 @@ package com.example.stydy_kotlin
 import android.content.Context
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.example.myapplication.R
+
 import com.example.myapplication.presentation.example8.TestGson
 
 class MainActivity : AppCompatActivity() {
